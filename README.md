@@ -1,10 +1,9 @@
 # CodeKafe
 
-• Napraviti C# program sa implementacijom loggera po želji EventViewer,
+• Napraviti C# konzolni program sa implementacijom loggera po želji EventViewer,
 log4net, FileLogger itd.
 • Program je za kasu u restoranu CodeKafe
-• Nabavna cena obroka (glavno jelo, salata, kolač) za restoran je 350
-dinara bez PDV-a. Stopa malo prodajnog poreza je 0.0825
+• Stopa malo prodajnog poreza je 0.0825
 • Definisati cenu za 5 jela, i 5 pića na meniju i prikazati meni sa PDV-om i
 bez
 • Upisati sve vrste grešaka info, info – information, warn – warning, fail –
